@@ -1,0 +1,6 @@
+name: ml
+channels:
+  - pypi
+  - conda-forge
+  - defaults
+prefix: C:\Users\molli\anaconda3\envs\ml
